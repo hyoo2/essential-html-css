@@ -85,7 +85,8 @@ dt {
 dd {
 	font-size: 80%;
 	font-style: italic;
-	margin-left, margin-bottom: 1em;
+	margin-left: 1em;
+	margin-bottom: 1em;
 }
 
 #about {
